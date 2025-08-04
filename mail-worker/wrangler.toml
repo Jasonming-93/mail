@@ -1,4 +1,4 @@
-name = "cloud-mail"
+name = "mail"
 main = "src/index.js"
 compatibility_date = "2025-07-29"
 keep_vars = true
